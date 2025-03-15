@@ -1,0 +1,6 @@
+streamlit
+pymupdf
+langchain-community
+chromadb
+groq
+sentence-transformers
